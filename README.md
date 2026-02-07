@@ -10,4 +10,4 @@ A simple python script that uses Dolphin Memory Engine to print the current scor
 pip install -r requirements.txt
 ```
 ## Downloading the program
-1. Check the releases tab on this repo (
+1. Check the releases tab on this repo (https://github.com/Denny82044/dominationsorewatch/releases)
