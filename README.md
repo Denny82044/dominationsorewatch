@@ -20,3 +20,5 @@ pip install -r requirements.txt
 1. The console will be very spammy, this is intended.
 2. If not in Domination, the program will show random values, this is normal.
 3. If there are any bugs, report them on the repo or to me directly on Discord (denny82044)
+
+# Supported Dolphin Versions
