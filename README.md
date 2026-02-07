@@ -3,9 +3,9 @@ A simple python script that uses Dolphin Memory Engine to print the current scor
 
 # Installation Guide
 ## Requirements
-Python 3.10+
+1. Python 3.10+
 
-Everything inside of requirements.txt
+2. Everything inside of requirements.txt
 ```
 pip install -r requirements.txt
 ```
