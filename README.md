@@ -3,3 +3,7 @@ A simple python script that uses Dolphin Memory Engine to print the current scor
 
 # Installation Guide
 ## Requirements
+Everything inside of requirements.txt
+```
+pip install -r requirements.txt
+```
